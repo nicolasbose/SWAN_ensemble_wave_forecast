@@ -6,4 +6,6 @@ This repository provide python scripts that help with the implementation o SWAN 
 
 - The Jupyter lab python scripts help to generate input for the SWAN runs, they create all the 31 scenarios (30 members plus one control).
 
+- To learn more access the pdf named Ensemble_wave_test.
+
 ![hs_ww3](https://user-images.githubusercontent.com/51712154/168601884-31192151-ae66-41f9-95ee-482737588eec.png)
